@@ -1,0 +1,13 @@
+one:
+  name: Some
+  email: test1@test.test
+  phone: 111111111111
+  balance: 2
+  uuid: 77ea1172-a347-47fb-a7f8-240a8507bfc4
+
+user_with_zero_balance:
+  name: Hubert
+  email: hubert@gmail.com
+  phone: +7(34345)378-34-343
+  balance: 0
+  uuid: ae76fe20-b41a-4840-85c8-41387eb5218b
